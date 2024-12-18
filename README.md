@@ -1,5 +1,5 @@
 <h1>Hello! I'm Olena Gaponenko 👋</h1>
-<p>I currently study Frontend Development at Scrimba</p>
+<p>I'm a computer science student in Politechnika Łódzka</p>
 <div align="right">
      <span>
         <a target="_blank" href="https://www.linkedin.com/in/olena-gaponenko-67249a1b0/"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-%23316FF6?style=for-the-badge&logo=linkedin&logoColor=white&link=www.linkedin.com%2Fin%2Fmark-vincent06">
